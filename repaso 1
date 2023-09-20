@@ -1,0 +1,8 @@
+def costo(): 
+ print("cuanto desea pagar") 
+ x=input()  
+print("cuanta propina desea dar")  
+b=input()  
+Y = int(x) + int(b)    
+print(Y)
+costo()
