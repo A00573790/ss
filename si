@@ -1,0 +1,41 @@
+def f(x):
+  f_x=-2*x+34
+  return f_x
+
+y = f(3)
+
+print(y)
+
+def g(x):
+  g_x=-x/3-10
+  return g_x
+
+y = g(2)
+
+print(y)
+
+def f(x):
+  f_x=-abs(3*x)
+  return f_x
+
+y = f(2)
+
+print(y)
+
+print(y)
+
+def g(x):
+  g_x=-x/3-10
+  return g_x
+
+y = g(2)
+
+print(y)
+
+def h(x):
+  h_x=(x-2)**2
+  return h_x
+
+y = h(2)
+
+print(y)
