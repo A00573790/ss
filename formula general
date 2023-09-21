@@ -1,0 +1,8 @@
+def formula_general():
+  A = 2
+  B = 3
+  C = 4
+  raiz =A**(1/2)
+  
+  print(raiz)
+formula_general()
