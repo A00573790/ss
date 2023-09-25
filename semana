@@ -1,0 +1,18 @@
+num_dia = int(input("ingrese un numero del 1 al 7: "))
+  if num_dia =1:
+  print("hoy es lunes")
+
+  if num_dia =2:
+  print("hoy es lunes")
+
+  if num_dia =3:
+  print("hoy es lunes")
+
+  if num_dia =4:
+  print("hoy es lunes")
+
+  if num_dia =5:
+  print("hoy es lunes")  
+
+  if num_dia =6:
+  print("hoy es lunes")
