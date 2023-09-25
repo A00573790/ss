@@ -1,0 +1,8 @@
+num1 = float(input("ingresa el primer numero: "))
+num2 = float(input("segundo numero: "))
+
+if num1 >= num2:
+  print("el primer numero es mayor al segundo")
+
+if num1 <= num2:
+  print("el segundo numero es mayor")
