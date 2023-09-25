@@ -1,0 +1,16 @@
+operacion = input("selecciona una poeracion(+,-,*,/)")
+num1= float(input("inserte el primer numero:"))
+num2= float(input("inserte el segundo numero"))
+
+if operacion:= "+":
+  print("ha seleccionado la suma")
+
+  
+if operacion:= "-":
+  print("ha seleccionado la resta")
+
+if operacion:= "*":
+  print("ha seleccionado la multiplicacion")
+
+if operacion:= "/":
+  print("ha seleccionado la division")
