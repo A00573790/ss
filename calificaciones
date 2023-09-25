@@ -1,0 +1,7 @@
+calificacion = float(input("ingresa tu calificaicion: "))
+
+if calificacion >= 70:
+  print("feliciades, aprobaste")
+
+if calificacion <= 70:
+  print("mejor suerte la proxima")
