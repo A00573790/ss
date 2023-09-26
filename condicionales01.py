@@ -1,5 +1,5 @@
 temp = float(input("temperatura: "))
-if temp > 90:
-  print("que calor!")
+if temp > -10 < 10:
+  print("hurra!")
 else:
-  print("esta agusto")
+  print("meh")
