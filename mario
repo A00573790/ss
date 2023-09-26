@@ -1,0 +1,9 @@
+mario = input("¿esta mario ahi?, responde si o no: ")
+luigi = input("¿esta luigi ahi?, responde si o no: ")
+
+if luigi == "si":
+  print("dejar pasar")
+elif mario == "si":
+  print("aplastar")
+else:
+  print("no hace nada")
