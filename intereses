@@ -1,0 +1,9 @@
+def intereses():
+  p = int(input("inserte la cantidad recientemente invertida: "))
+  r = int(input("inserte la tasa de interes anual: "))
+  n = int(input("veces que se capitaliza el interes por año: "))
+  t = int(input("inserte numero de años: "))
+  valor = p*(1+r/n)**n*t
+  print("el valor de la inversion es:",valor)
+
+intereses()
