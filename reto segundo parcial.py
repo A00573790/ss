@@ -1,3 +1,5 @@
+https://replit.com/join/fxdvbmwaae-maximilianofe10
+
 
 puntuacion_examen=int(input("inserte la puntuacion de se examen: "))
 numero_asignaciones=int(input("inserte numero de asignaciones completadas: "))
